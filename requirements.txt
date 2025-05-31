@@ -1,0 +1,4 @@
+langchain_openai
+smolagents
+google-api-python-client
+python-dotenv
